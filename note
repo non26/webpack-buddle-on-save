@@ -1,0 +1,10 @@
+npx webpack
+npx webpack --watch
+or
+webpack: true property at config file -> npx webpack
+
+npx webpack-dev-server when using webpack-dev-server with npm start command
+
+npm run build => buddle the file
+npm run dev => watch the file on save
+
